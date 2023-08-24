@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import '../styles/Exhibit.css'
 
 
 export default class Exhibit extends Component {

@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-.ip_addresses {
+.flex-boxes {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -17,4 +17,14 @@
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.latency {
+    width: 270px;
+    margin: auto;
+    padding: 0.01rem 0.5rem 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
